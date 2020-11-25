@@ -1,2 +1,2 @@
-this si the second file 
-welcome
+this is the second file 
+welcome to second page
